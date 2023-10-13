@@ -3,6 +3,13 @@
 <!-- TO DO: add more details about me later -->
 
 Hola, soy Dennys. Bienvenido a mi perfil de GitHub.
+
+### 🔥 Streak Stats
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=dennys3mf&theme=algolia" alt="dennys3mf"  /></p>
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dennys3mf&layout=compact&theme=algolia"></p>
+
+
 <details open>
 <summary>Mis habilidades</summary>
   
