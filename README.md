@@ -2,16 +2,22 @@
 
 <!-- TO DO: add more details about me later -->
 
-Hola, soy Dennys. Bienvenido a mi perfil de GitHub.
+<h1 align="center">Hola, soy Dennys! <strong>Bienvenido a mi perfil de GitHub.</strong></center></h1>
 
 ### 🔥 Streak Stats
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=dennys3mf&theme=algolia" alt="dennys3mf"  /></p>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dennys3mf&layout=compact&theme=algolia"></p>
 
+### 🪚 Detail
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=dennys3mf&theme=onedark" />
+</p>
 
+<h1>
 <details open>
 <summary>Mis habilidades</summary>
+</h1>
   
 | Rank | Languages |
 |-----:|-----------|
