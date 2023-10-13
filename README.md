@@ -14,18 +14,33 @@
 <img src="https://github-profile-trophy.vercel.app/?username=dennys3mf&theme=onedark" />
 </p>
 
-<h1>
+<div style="width: 80%;"> <!-- Cambia el valor de "width" según tu preferencia -->
+
+<h3>
 <details open>
 <summary>Mis habilidades</summary>
-</h1>
   
-| Rank | Languages |
-|-----:|-----------|
-|     1| Javascript|
-|     2| Python    |
-|     3| SQL       |
+  | Rank  | Languages |
+  |-----: |-------------------------------------------------------------------------------------------------------------------------- |
+  |     1  | ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python) |
+  |     2  | ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript) |
+  |     3  | ![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php&logoColor=777BB4) |
+  |     4  | ![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=dart&logoColor=1075C2) |
+  |     5  | ![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=laravel&logoColor=FF2D20) |
+  |     6  | ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518) |
+  |     7  | ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js&logoColor=339933) |
+  |     8  | ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git) |
+  |     9  | ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github) |
+  |     10  | ![Android Studio](https://img.shields.io/badge/-Android%20Studio-05122A?style=flat&logo=android-studio&logoColor=3DDC84) |
+  |     11  | ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql&logoColor=336791) |
+  |     12  | ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=4479A1) |
+  |     13  | ![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase&logoColor=FFCA28) |
+
 
 </details>
+</h3>
+</div>
+
 
 ---
 > If we pull together and commit ourselves, then we can push through anything.
