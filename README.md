@@ -61,12 +61,12 @@ I am a **detail-oriented Flutter Developer** with **2+ years** of experience in 
 
 ## 📊 GitHub Stats
 
-![Kaushik's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaushik072&show_icons=true&theme=merko)
+![Kaushik's GitHub stats](https://github-readme-stats.vercel.app/api?username=dennys3mfshow_icons=true&theme=merko)
 
 ---
 
 ## 🔥 Top Languages Used
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaushik072&layout=compact&theme=merko)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dennys3mf&layout=compact&theme=merko)
 
 
 ---
