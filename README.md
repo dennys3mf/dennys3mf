@@ -1,5 +1,5 @@
 # 👋 Hey! I'm **Dennys Marquez**  
-**Flutter Developer for Startups & Agencies | 2+ Years Building Scalable, Production-Ready Apps**
+**Flutter Developer for Startups & Agencies | 1+ Years Building Scalable, Production-Ready Apps**
 
 > **I turn ideas into polished Flutter apps — fast, clean, and loved by users.**
 
