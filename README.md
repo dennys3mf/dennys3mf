@@ -76,7 +76,7 @@
 - **E-commerce & Logistics**
 
 > *“Dennys delivered a white-label fitness app in 3 weeks — fully branded, bug-free, and ready to resell.”*  
-> — Agency Owner, India
+> — Agency Owner, Arequipa - Peru
 
 ---
 
