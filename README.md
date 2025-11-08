@@ -87,12 +87,6 @@
 
 ---
 
-## 🏆 Community Leadership
-**Co-Organizer @ Flutter Surat**  
-→ 15+ events | 300+ developers trained | Workshops on Clean Architecture & Firebase
-
----
-
 ## 💰 Rates & Availability (New to Upwork – Proven Outside)
 
 | Service | Rate |
