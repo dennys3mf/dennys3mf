@@ -1,7 +1,7 @@
 # 👋 Hey! I'm **Dennys Marquez**  
-**Flutter Developer for Startups & Agencies | 2+ Years Building Scalable, AI-Ready Apps**
+**Flutter Developer for Startups & Agencies | 2+ Years Building Scalable, Production-Ready Apps**
 
-> **I turn ideas into production-ready Flutter apps — fast, clean, and loved by users.**
+> **I turn ideas into polished Flutter apps — fast, clean, and loved by users.**
 
 ---
 
@@ -9,8 +9,8 @@
 
 | You Need | I Build |
 |--------|--------|
-| **MVP in 2–4 weeks** | Clean Flutter + Firebase + Stripe |
-| **White-label app for your agency** | Fully customizable, rebrandable, documented |
+| **MVP in 2–3 weeks** | Clean Flutter + Firebase + Stripe |
+| **White-label app for your agency** | Fully rebrandable, documented, ready to resell |
 | **AI-powered features** | Chatbots, OCR, recommendations (Gemini / OpenAI) |
 | **Live tracking & maps** | Google Maps + Geofencing + Real-time updates |
 | **Scalable architecture** | Clean Architecture + BLoC + CI/CD |
@@ -31,7 +31,7 @@
 - Analytics + Crashlytics
 
 ### ✅ **Payments & Monetization**
-- **Stripe, Razorpay, Apple Pay, PayPal, Juspay**
+- **Stripe, Razorpay, Apple Pay, PayPal, Juspay, Easebuzz**
 - In-app purchases & subscriptions
 - AdMob / Facebook Ads
 
@@ -63,14 +63,14 @@
 ---
 
 ## 🛠 How I Work (Client-First Process)
-1. **Free 30-min Discovery Call** → Scope & MVP plan
-2. **Fixed-price Quote** in 24h
-3. **Weekly Demos** + clean, documented code
+1. **Free 30-min Discovery Call** → Scope & MVP plan  
+2. **Fixed-price Quote** in 24h  
+3. **Weekly Demos** + clean, documented code  
 4. **App Store / Play Store** submission included
 
 ---
 
-## 🌟 Trusted By
+## 🌟 Trusted By (Outside Upwork)
 - **Digital Agencies** (White-label apps)
 - **HealthTech & FinTech Startups**
 - **E-commerce & Logistics**
@@ -93,14 +93,16 @@
 
 ---
 
-## 💰 Rates & Availability
-| Service | Rate |
-|-------|------|
-| **Hourly** | **$25/hr** *(was $15 — now reflects value)* |
-| **MVP (4 weeks)** | **$3,500 – $6,000** |
-| **White-label App** | **$5,000+** |
+## 💰 Rates & Availability (New to Upwork – Proven Outside)
 
-> **30+ hours/week** | **Fast responses** | **English / Español**
+| Service | Rate |
+|--------|------|
+| **Hourly** | **$12–$15/hr** *(Rising to $25+ after 3 reviews)* |
+| **MVP (2–3 weeks)** | **$1,200 – $2,500 fixed** |
+| **White-label App** | **$2,000+** |
+
+> **30+ hours/week** | **<2h response** | **English / Español**  
+> *Building my Upwork reputation — same quality, better price*
 
 ---
 
