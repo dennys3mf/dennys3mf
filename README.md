@@ -2,7 +2,7 @@
 
 **Helping Startups & Unicorns Build Apps | Passionate Flutter Developer | Tech Enthusiast | Mobile App Development Expert/Architect**
 
-I am a **detail-oriented Flutter Developer** with **2+ years** of experience in designing and developing **high-performance, scalable, and secure** cross-platform mobile applications. My expertise spans across **API integration, Firebase services, state management, CI/CD pipelines, and mobile architecture**. I am committed to delivering seamless user experiences and building efficient solutions.
+I'm a **detail-oriented Flutter Developer** with **2+ years** of experience in designing and developing **high-performance, scalable, and secure** cross-platform mobile applications. My expertise spans across **API integration, Firebase services, state management, CI/CD pipelines, and mobile architecture**. I'm committed to delivering seamless user experiences and building efficient solutions.
 
 ## 💡 About Me
 - 📱 Specializing in **Flutter & Dart**, crafting dynamic and responsive mobile applications.
@@ -61,7 +61,7 @@ I am a **detail-oriented Flutter Developer** with **2+ years** of experience in 
 
 ## 📊 GitHub Stats
 
-![Kaushik's GitHub stats](https://github-readme-stats.vercel.app/api?username=dennys3mfshow_icons=true&theme=merko)
+![Dennys Marquez](https://github-readme-stats.vercel.app/api?username=dennys3mf/show_icons=true&theme=merko)
 
 ---
 
