@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/ocean-sunset.webp" alt="Dennys Marquez — Full Stack Developer | Web, Mobile & Applied AI" width="100%" />
+  <img src="./assets/ocean-code.svg" alt="Dennys Marquez — Full Stack Developer | Web, Mobile & Applied AI" width="100%" />
 
   <br />
 
