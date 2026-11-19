@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="360" viewBox="0 0 1280 360" role="img" aria-labelledby="title desc">
+  <title id="title">Dennys Marquez — Full Stack Developer</title>
+  <desc id="desc">Dark navy professional banner with a cyan d monogram, subtle grid and technical accent lines.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#081426"/>
+      <stop offset="55%" stop-color="#101f3b"/>
+      <stop offset="100%" stop-color="#102e51"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#22d3ee" stop-opacity=".23"/>
+      <stop offset="100%" stop-color="#22d3ee" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse">
+      <path d="M 36 0 L 0 0 0 36" fill="none" stroke="#8cc6e9" stroke-width=".7" opacity=".12"/>
+    </pattern>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#38bdf8"/>
+      <stop offset="100%" stop-color="#22d3ee"/>
+    </linearGradient>
+    <clipPath id="rounded"><rect width="1280" height="360" rx="26"/></clipPath>
+  </defs>
+  <g clip-path="url(#rounded)">
+    <rect width="1280" height="360" fill="url(#background)"/>
+    <rect width="1280" height="360" fill="url(#grid)"/>
+    <circle cx="1050" cy="175" r="315" fill="url(#glow)"/>
+    <path d="M 810 -65 L 1290 415" stroke="#4bb5f4" stroke-width="1" opacity=".16"/>
+    <path d="M 900 -100 L 1380 380" stroke="#4bb5f4" stroke-width="1" opacity=".11"/>
+    <path d="M 990 -100 L 1470 380" stroke="#4bb5f4" stroke-width="1" opacity=".09"/>
+    <rect x="0" y="0" width="7" height="360" fill="url(#accent)"/>
+    <rect x="77" y="72" width="31" height="3" rx="1.5" fill="#22d3ee"/>
+    <text x="123" y="79" fill="#8edbef" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="600" letter-spacing="3">DEVELOPER  /  DESIGN THINKER</text>
+    <text x="76" y="172" fill="#f7fbff" font-family="Segoe UI, Arial, sans-serif" font-size="69" font-weight="750" letter-spacing="-2">Dennys Marquez</text>
+    <text x="80" y="220" fill="#7dd3fc" font-family="Segoe UI, Arial, sans-serif" font-size="29" font-weight="500">Full Stack Developer</text>
+    <path d="M80 251 H710" stroke="#5e83a3" stroke-width="1" opacity=".40"/>
+    <text x="80" y="284" fill="#c2d3e5" font-family="Segoe UI, Arial, sans-serif" font-size="17" letter-spacing="2">WEB  /  MOBILE  /  APPLIED AI</text>
+    <text x="80" y="327" fill="#92abc2" font-family="Segoe UI, Arial, sans-serif" font-size="15">AREQUIPA, PERU</text>
+    <circle cx="1055" cy="177" r="119" fill="#08172d" fill-opacity=".72" stroke="#7dd3fc" stroke-opacity=".24" stroke-width="1"/>
+    <circle cx="1055" cy="177" r="99" fill="none" stroke="#22d3ee" stroke-opacity=".26" stroke-width="1.5" stroke-dasharray="7 8"/>
+    <text x="1052" y="235" text-anchor="middle" fill="url(#accent)" font-family="Segoe UI, Arial, sans-serif" font-size="176" font-weight="750" letter-spacing="-7">d</text>
+    <circle cx="1175" cy="75" r="5" fill="#22d3ee"/>
+    <circle cx="944" cy="285" r="4" fill="#38bdf8" opacity=".75"/>
+    <path d="M890 318 H1210" stroke="#22d3ee" opacity=".28"/>
+  </g>
+</svg>
