@@ -1,110 +1,80 @@
-# 👋 Hey! I'm **Dennys Marquez**  
-**Flutter Developer for Startups & Agencies | 1+ Years Building Scalable, Production-Ready Apps**
+<div align="center">
+  <img src="./assets/profile-cover.svg" alt="Dennys Marquez — Full Stack Developer | Web, Mobile & Applied AI" width="100%" />
 
-> **I turn ideas into polished Flutter apps — fast, clean, and loved by users.**
+  <br />
 
----
+  <a href="https://ahorratiempo.pe"><img alt="Explore AhorraTiempo" src="https://img.shields.io/badge/Explore-AhorraTiempo-0D2D4B?style=for-the-badge&logo=googlechrome&logoColor=7DD3FC" /></a>
+  <a href="https://www.linkedin.com/in/dennys-marquez/"><img alt="Connect on LinkedIn" src="https://img.shields.io/badge/Connect-LinkedIn-0D2D4B?style=for-the-badge&logo=linkedin&logoColor=7DD3FC" /></a>
+  <a href="mailto:dennys.marquez.dev@gmail.com"><img alt="Send me an email" src="https://img.shields.io/badge/Let's_Talk-Email-0D2D4B?style=for-the-badge&logo=gmail&logoColor=7DD3FC" /></a>
+</div>
 
-## 💼 What I Deliver (Results, Not Just Code)
+<br />
 
-| You Need | I Build |
-|--------|--------|
-| **MVP in 2–3 weeks** | Clean Flutter + Firebase + Stripe |
-| **White-label app for your agency** | Fully rebrandable, documented, ready to resell |
-| **AI-powered features** | Chatbots, OCR, recommendations (Gemini / OpenAI) |
-| **Live tracking & maps** | Google Maps + Geofencing + Real-time updates |
-| **Scalable architecture** | Clean Architecture + BLoC + CI/CD |
+### 👋 Hello, I'm Dennys
 
----
+I'm a **Full Stack Developer based in Arequipa, Peru**, with a technical degree in **Software Design and Development from TECSUP**.
 
-## 🚀 Core Expertise (Proven in Production)
+I enjoy turning complex problems into clear, practical digital experiences — from responsive web platforms to mobile apps and AI-assisted workflows. I care about useful features, thoughtful interfaces, and maintainable code.
 
-### ✅ **Flutter & Dart**
-- Pixel-perfect UI with **custom animations**
-- **iOS & Android** from **one codebase**
-- Performance: 60fps, <100ms cold start
-
-### ✅ **Firebase (Full Stack)**
-- Auth (Email, Google, OTP)
-- Firestore + Realtime DB
-- Push Notifications (FCM)
-- Analytics + Crashlytics
-
-### ✅ **Payments & Monetization**
-- **Stripe, Razorpay, Apple Pay, PayPal, Juspay, Easebuzz**
-- In-app purchases & subscriptions
-- AdMob / Facebook Ads
-
-### ✅ **Real-time & Chat**
-- **GetStream, QuickBlox, Firebase**
-- Group chat, typing indicators, message history
-
-### ✅ **Maps & Location**
-- **Google Maps + Polylines + Clustering**
-- Live driver tracking
-- Geofencing triggers
-
-### ✅ **State & Architecture**
-- **BLoC (Clean)** | **Riverpod (MVVM)** | **GetX**
-- Modular, testable, maintainable
-
-### ✅ **CI/CD**
-- **GitHub Actions + Codemagic**
-- Automated testing & App Store deployment
+- **What I build:** web applications, internal tools, mobile solutions and intelligent experiences.
+- **What I value:** simplicity, accessibility, performance and a great user experience.
+- **What I'm exploring:** applied AI, automation and digital services that make everyday work easier.
 
 ---
 
-## 🔥 AI & Smart Features (My Edge)
-- **OCR + AI Summarization** (Health reports, invoices)
-- **Smart Chatbots** (OpenAI / Gemini)
-- **Voice & Image Recognition**
-- **Personalized Recommendations**
+### ✦ Featured work
+
+<table>
+<tr>
+  <td width="50%" valign="top">
+    <h3>🇵🇪 <a href="https://ahorratiempo.pe">AhorraTiempo</a></h3>
+    <p>An independent platform that helps people understand and navigate administrative procedures in Peru with AI-assisted guidance.</p>
+    <p><strong>Focus:</strong> Web platform · AI integration · UX</p>
+    <a href="https://ahorratiempo.pe"><strong>Explore live project ↗</strong></a>
+  </td>
+  <td width="50%" valign="top">
+    <h3>🛒 <a href="https://github.com/dennys3mf/mimarket-flutter">MiMarket · Flutter POS</a></h3>
+    <p>A mobile point-of-sale experience for a minimarket, designed around quick sales, inventory tasks and offline-first operation.</p>
+    <p><strong>Stack:</strong> Flutter · Dart · Firebase</p>
+    <a href="https://github.com/dennys3mf/mimarket-flutter"><strong>View repository ↗</strong></a>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" valign="top">
+    <h3>⛑️ <a href="https://github.com/dennys3mf/Proyecto-Casco-Seguridad-IoT">Smart Safety Helmet · IoT Prototype</a></h3>
+    <p>A technical project exploring operator fatigue detection for heavy machinery using motion sensing, local alerts and cloud monitoring.</p>
+    <p><strong>Focus:</strong> IoT · Sensors · Safety technology</p>
+    <a href="https://github.com/dennys3mf/Proyecto-Casco-Seguridad-IoT"><strong>Explore project ↗</strong></a>
+  </td>
+</tr>
+</table>
+
+### ⚡ Tools & technologies
+
+<div align="center">
+  <img alt="React, TypeScript, JavaScript, Node.js, Next.js, Tailwind CSS, Python, Flutter, Dart, Firebase, Git and Figma" src="https://skillicons.dev/icons?i=react,ts,js,nodejs,nextjs,tailwind,python,flutter,dart,firebase,git,figma&perline=12&theme=dark" />
+</div>
+
+<br />
+
+**Frontend:** React · TypeScript · JavaScript · Next.js · Tailwind CSS  
+**Backend & cloud:** Node.js · Python · Firebase · Cloudflare  
+**Mobile & workflow:** Flutter · Dart · Git · GitHub · Figma
 
 ---
 
-## 🛠 How I Work (Client-First Process)
-1. **Free 30-min Discovery Call** → Scope & MVP plan  
-2. **Fixed-price Quote** in 24h  
-3. **Weekly Demos** + clean, documented code  
-4. **App Store / Play Store** submission included
+### 🤝 Let's build something useful
 
----
+I'm interested in collaborating on products that bring together **good engineering, clear design and meaningful problem-solving**.
 
-## 🌟 Trusted By (Outside Upwork)
-- **Digital Agencies** (White-label apps)
-- **HealthTech & FinTech Startups**
-- **E-commerce & Logistics**
+If you'd like to discuss an idea, a product or a development opportunity, feel free to reach out.
 
-> *“Dennys delivered a white-label fitness app in 3 weeks — fully branded, bug-free, and ready to resell.”*  
-> — Agency Owner, Arequipa - Peru
-
----
-
-## 📊 GitHub Activity
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dennys3mf&show_icons=true&theme=merko&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dennys3mf&layout=compact&theme=merko&hide_border=true)
-
----
-
-## 💰 Rates & Availability (New to Upwork – Proven Outside)
-
-| Service | Rate |
-|--------|------|
-| **Hourly** | **$12–$15/hr** *(Rising to $25+ after 3 reviews)* |
-| **MVP (2–3 weeks)** | **$1,200 – $2,500 fixed** |
-| **White-label App** | **$2,000+** |
-
-> **30+ hours/week** | **<2h response** | **English / Español**  
-> *Building my Upwork reputation — same quality, better price*
-
----
-
-## 📬 Let’s Build Your App
-**Next Step:** Reply with your idea → I’ll send a **free MVP roadmap + quote in 24h**
-
-📧 **dennys.marquez.dev@gmail.com**  
-💼 [LinkedIn](https://www.linkedin.com/in/dennys-marquez/)  
-💻 [GitHub](https://github.com/dennys3mf)
-
----
+<div align="center">
+  <a href="mailto:dennys.marquez.dev@gmail.com"><strong>✉️ Email me</strong></a>
+  &nbsp; · &nbsp;
+  <a href="https://www.linkedin.com/in/dennys-marquez/"><strong>LinkedIn</strong></a>
+  &nbsp; · &nbsp;
+  <a href="https://github.com/dennys3mf?tab=repositories"><strong>Explore my repositories</strong></a>
+  <br /><br />
+  <sub>Built with intention. Designed for clarity.</sub>
+</div>
